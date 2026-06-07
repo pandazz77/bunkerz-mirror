@@ -1,0 +1,2 @@
+# Docker named volumes are managed by Docker, nothing to ignore
+# Traefik acme.json lives in a named volume, not in the repo
